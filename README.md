@@ -135,6 +135,8 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Aleosan, Cotabato | - | - | - | 🔵 Planned | [@regzimarx](https://github.com/regzimarx) |
 | Marawi City, Lanao del Sur       | -                                                             | [GitHub](https://github.com/mamangcao/bettermarawi)                    | [Facebook](https://facebook.com/bettermarawi.org)                                                                          | 🔵 Planned             | [@mamangcao](https://github.com/mamangcao)                                                                               |
 
+| Panabo City | [BetterPanabo](https://citizensconnectnabotech.vercel.app/) or - | [GitHub](https://github.com/ProjectFuritsu/citizensconnectnabotech) or - | 🟡 Work in Progress | [@ProjectFuritsu](https://github.com/ProjectFuritsu/) |
+
 <!-- SYNC_LGU_TABLE_END -->
 
 > Want to add your LGU? See the [Contributing Guide](CONTRIBUTING.md).
